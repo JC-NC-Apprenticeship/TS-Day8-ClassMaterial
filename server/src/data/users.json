@@ -1,0 +1,7 @@
+[
+	{ "username": "rgig", "subscribed_for_newsletter": false, "forename": "Ryan", "surname": "Gislason", "shop_name": "Kerluke - Koss" },
+	{ "username": "herm", "subscribed_for_newsletter": true, "forename": "Hermann", "surname": "Strosin", "shop_name": "Goldner LLC" },
+	{ "username": "quigz", "subscribed_for_newsletter": false, "forename": "Efren", "surname": "Quigley", "purchases": ["some treasure £65000"] },
+	{ "username": "laverne", "subscribed_for_newsletter": true, "forename": "Laverne", "surname": "Ziemann", "purchases": [] },
+	{ "username": "jim", "forename": "jims", "surname": "jiomsy", "subscribed_for_newsletter": true }
+]

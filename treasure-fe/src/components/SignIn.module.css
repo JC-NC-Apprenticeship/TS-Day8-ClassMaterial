@@ -1,0 +1,46 @@
+.signInForm {
+  justify-content: center;
+  border-radius: 10px;
+  padding: 2em;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4d06f;
+}
+
+.signInForm > label {
+  margin: 1em;
+  font-size: 1.5em;
+  color: #020402;
+}
+
+.signInForm > label > input {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  margin-top: 1em;
+  font-size: 0.7em;
+  border-width: 1px;
+  border-color: #020402;
+  border-radius: 10px;
+  padding: 0.5em;
+  align-content: center;
+}
+
+.signInForm > label > button {
+  background-color: #c4b2bc;
+  border-radius: 10px;
+  color: #020402;
+  padding: 0.5em;
+  font-size: 0.7em;
+  border: none;
+  margin: 0.5em;
+}
+
+.button {
+  background-color: #c4b2bc;
+  border-radius: 10px;
+  color: #020402;
+  padding: 1em;
+  font-size: 1.2em;
+  border: none;
+}

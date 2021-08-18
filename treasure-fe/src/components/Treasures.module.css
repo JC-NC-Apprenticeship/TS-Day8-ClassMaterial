@@ -1,0 +1,16 @@
+.header {
+  color: #020402;
+}
+
+.treasuresList {
+  list-style: none;
+  padding: 0;
+}
+
+.button {
+  background-color: #ff8811;
+  border: none;
+  border-radius: 10px;
+  padding: 0.5em;
+  color: #020402;
+}

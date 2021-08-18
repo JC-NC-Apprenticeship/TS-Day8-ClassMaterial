@@ -1,0 +1,36 @@
+.treasureCard {
+  background-color: #c4b2bc;
+  color: #020402;
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0.5em;
+  display: grid;
+  grid-template-rows: 1.5fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+    'title title title'
+    'age colour .'
+    'cost . buy';
+}
+
+.treasureCard > h2 {
+  grid-area: title;
+}
+
+.treasureCard > button {
+  grid-area: buy;
+  background-color: #f4d06f;
+  border: none;
+  padding: 0.7em;
+  border-radius: 10px;
+}
+
+.cost {
+  grid-area: cost;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.colour {
+  grid-area: colour;
+}
